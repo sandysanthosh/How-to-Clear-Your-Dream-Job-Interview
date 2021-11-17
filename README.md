@@ -72,7 +72,7 @@
 
 #### book:
 
-* how to win frineds influence by dale carnegie
+* how to win friends & influence people by dale carnegie
 
 #### what is being Tested:
 
