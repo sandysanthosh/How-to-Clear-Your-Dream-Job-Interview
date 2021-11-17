@@ -1,0 +1,224 @@
+# How-to-Clear-Your-Dream-Job-Interview
+
+#### work ethic
+
+* people skill
+
+* passion
+
+* problem solving skill
+
+* ability to learn
+
+ #### question 
+
+* what experience
+
+* what have you accomplished 
+
+* what offer you have 
+
+* personality(Resume)
+
+#### Research:
+
+* know the company
+
+* size
+
+* industry
+
+* product 
+
+* software
+
+* blod posts
+
+* social media
+
+* job description
+
+#### algorithm bases problem:
+
+* use math
+
+* simple at the core
+
+* edge cases
+
+* inside referal
+
+* 40% hire
+
+* network people
+
+#### typical interview process:
+
+* prescreening
+
+* programming problems
+
+* knowledge questions
+
+* experience explanations
+
+* 2nd interview or panel interview
+
+* soft skills
+
+* people hire people they like
+
+* agile environment
+
+#### book:
+
+* how to win frineds influence by dale carnegie
+
+#### what is being Tested:
+
+* ability to solve problem 
+
+* ability to use programming language
+
+* ability to perform under pressure
+
+#### basics to remember:
+
+* read the problem completely
+
+* solve the problem manually
+
+* optimize the manual steps
+
+* write the manual steps(Pseudo-code)
+
+* replace the comments or pesudo code with real code
+
+* optimize the real code
+
+* our problem
+
+#### reading the problem:
+
+* completely twice
+
+* solve Manually
+
+* optimize the manual steps(pattern or loops)
+
+* pseudo-code
+
+* psueo-code
+
+* add comments
+
+* add mapping
+
+```
+->manual steps and rewrite as comments
+//split the title into spaces
+//capatilize word[0]
+//capatalize word[last]
+//for each word from word[1] to word[last-1]
+//if list contais the word
+//lower cases the word
+  //else
+     //capatilize the word
+
+//combine into word
+```
+
+* optimize the code:
+
+* code is easily redeable and understandable
+
+#### practicing(code-site):
+
+* topcoder
+
+* codility
+
+* projectEuler
+
+* hackerrank
+
+* hackerearth
+
+#### common mistake:
+
+* jumping into code
+
+* skipping the manual steps
+
+* not understanding the problem
+
+#### experience:
+
+* open source
+
+* teach others
+
+* presentation
+
+* code camps
+
+* blogging
+
+#### presentation:
+
+* submit for conference
+
+* at your current job
+
+* online webinars
+
+* youtube video tutorial
+
+* code camps
+
+* free to attand
+
+* weekends
+
+* un-conference
+
+* community based
+
+* lots to local companies
+
+* lots to beginners
+
+#### Blogging:
+
+* easy to get started
+
+* plenty of free or cheap hosting
+
+* develop writing and thinking skills
+
+* if you are consistent,you all gain a following
+
+#### what type professional experince:
+
+* technology related to the job
+
+* leadership
+
+* mentoring
+
+* teaching or speaking
+
+* full stack technology
+
+
+#### focus area:
+
+* web
+
+* mobile
+
+* backend
+
+* embedded system
+
+
