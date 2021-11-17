@@ -1,21 +1,30 @@
 Welcome to the How-to-Clear-Your-Dream-Job-Interview wiki!
 
-* work ethic:
+#### work ethic
+
 * people skill
+
 * passion
+
 * problem solving skill
+
 * ability to learn
 
+ #### question 
+
 * what experience
-* what have accomplishes
-* what you have to offer
+
+* what have you accomplished 
+
+* what offer you have 
+
 * personality(Resume)
 
-* Research:
+#### Research:
 
-* ->know the company
+* know the company
 
-* ->size
+* size
 * industry
 * product 
 * software
@@ -24,9 +33,6 @@ Welcome to the How-to-Clear-Your-Dream-Job-Interview wiki!
 * social media
 * job description
 
-* indise referrals:
-* 40% like to hire
-
 * algorithm bases problem:
 
 * ->algorithm based problem.
@@ -34,30 +40,33 @@ Welcome to the How-to-Clear-Your-Dream-Job-Interview wiki!
 * ->simple at the core
 * ->Edge cases
 
-* inside referal:
+* inside referal
 * 40% hire
 * network people
 
-* typical interview process:
+#### typical interview process:
+
 * prescreening
 * programming problems
-* knowedge questions
+* knowledge questions
 * experience explanations
 * 2nd interview or panel interview
 
 * soft skills:
 * people hire people they like
-* agile enviroment
+* agile environment
 
-* book:
+#### book:
+
 * how to win frineds influence by dale carnegie
 
-* what is being Tested:
+#### what is being Tested:
+
 * ->ability to solve problem 
 * ->ability to use programming language
 * ->ability to perform under pressure
 
-* basic:
+#### basics to remember:
 
 * read the problem completely
 * solve the problem manually
@@ -65,10 +74,10 @@ Welcome to the How-to-Clear-Your-Dream-Job-Interview wiki!
 * write the manual steps(Pseudo-code)
 * replace the comments or pesudo code with real code
 * optimize the real code
-*  
-* our problem:
+* our problem
 
-* reading the problem:
+#### reading the problem:
+
 * ->completely twice
 * ->solve Manually
 * ->optimize the manual steps(pattern or loops)
@@ -78,6 +87,7 @@ Welcome to the How-to-Clear-Your-Dream-Job-Interview wiki!
 * add comments
 * add mapping
 
+```
 ->manual steps and rewrite as comments
 //split the title into spaces
 //capatilize word[0]
@@ -89,24 +99,26 @@ Welcome to the How-to-Clear-Your-Dream-Job-Interview wiki!
      //capatilize the word
 
 //combine into word
-
+```
 
 * optimize the code:
 
-* ->code is easily redeable and understandable
+* code is easily redeable and understandable
 
-* practicing(code-site):
+#### practicing(code-site):
 
 * topcoder
 * codility
 * projectEuler
+* hackerrank
+* hackerearth
 
 * common mistake:
 * jumping into code
 * skipping the manual steps
 * not understanding the problem
 
-* experience:
+#### experience:
 
 * open source
 * teach others
@@ -118,35 +130,37 @@ Welcome to the How-to-Clear-Your-Dream-Job-Interview wiki!
 * submit for conference
 * at your current job
 * online webinars
-* youtube video tutorail
+* youtube video tutorial
 
-* code camps:
+* code camps
 * free to attand
 * weekends
-* un-coference
+* un-conference
 * community based
 * lots to local companies
 * lots to beginners
 
-* Blogging:
+#### Blogging:
+
 * easy to get started
 * plenty of free or cheap hosting
-* develop wcriting and thinking skills
+* develop writing and thinking skills
 * if you are consistent,you all gain a following
 
-* what type pf experince:
+#### what type professional experince:
+
 * technology related to the job
 * leadership
 * mentoring
 * teaching or speaking
 * full stack technology
-* focus area:
+
+
+#### focus area:
+
 * web
 * mobile
 * backend
 * embedded system
-
-
-https://app.pluralsight.com/player?course=developer-job-interviews&author=john-sonmez&name=job-interview-m2-algorithm&clip=2&mode=live
 
 
